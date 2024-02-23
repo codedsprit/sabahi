@@ -1,2 +1,0 @@
-# bfm
- A simple file manager written in bash. 
