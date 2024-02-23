@@ -2,7 +2,16 @@
 name = "sabahi"
 version = "0.1.0"
 edition = "2021"
+authors = [ "codedsprit > Roshan Tiwaree < roshan0x01@gmail.com >" ]
+description = "🌱 file manager."
+readme = "README.md"
+repository = "https://github.com/codedsprit/sabahi"
+homepage = "https://github.com/codedsprit/sabahi.git"
+license = "MIT"
+keywords = ["nix", "tui", "file-manager"]
+categories = ["terminal", "command-line" ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
